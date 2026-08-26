@@ -89,6 +89,12 @@ O principal objetivo deste site é compartilhar conhecimento sobre a história d
   - Ícones personalizados
   - Sombras e efeitos sutis
 
+## 🚀 Deploy
+
+O projeto está hospedado na Vercel. Acesse:
+
+**🔗 [https://project-android-mu.vercel.app](https://project-android-mu.vercel.app)**
+
 ## 💻 Como Executar o Projeto
 
 1. Clone este repositório:
