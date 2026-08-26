@@ -94,7 +94,7 @@ O principal objetivo deste site é compartilhar conhecimento sobre a história d
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/projeto-android.git
+git clone https://github.com/diegovieiradv/project-android.git
 ```
 
 2. Navegue até a pasta do projeto:
@@ -128,7 +128,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👨‍💻 Autor
 
-Desenvolvido por [Seu Nome] como parte do curso de HTML5 e CSS3.
+Desenvolvido por [Diego Vieira](https://github.com/diegovieiradv) como parte do curso de HTML5 e CSS3.
 
 ## 🙏 Agradecimentos
 
@@ -138,4 +138,4 @@ Desenvolvido por [Seu Nome] como parte do curso de HTML5 e CSS3.
 
 ---
 
-⌨️ com ❤️ por [Seu Nome]
+⌨️ com ❤️ por [Diego Vieira](https://github.com/diegovieiradv)
